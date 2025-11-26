@@ -5,3 +5,4 @@
 3. Tablet Samsung de 11 pulgadas
 4. Samsung Galaxy S25
 5. Airpods 4 gen
+6. Monitor de 24 pulgadas
