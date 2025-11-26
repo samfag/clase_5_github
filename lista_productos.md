@@ -3,3 +3,4 @@
 1. Laptop de 15 pulgadas HP
 2. Audifonos inalambricos Sony
 3. Tablet Samsung de 11 pulgadas
+4. Samsung Galaxy S25
