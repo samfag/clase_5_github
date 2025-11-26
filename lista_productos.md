@@ -4,3 +4,4 @@
 2. Audifonos inalambricos Sony
 3. Tablet Samsung de 11 pulgadas
 4. Samsung Galaxy S25
+5. Airpods 4 gen
